@@ -6,7 +6,7 @@ try:
     db = pymysql.connect(
         host="localhost",
         user="root",
-        password="Sw@ggie190",
+        password=" ",
         database="covid19"
     )
 
